@@ -15,7 +15,7 @@ body{
     margin-left: auto;
     margin-right: auto;
     top: 50%;
-    background-color: #FDA494;
+    background-color: #C3FFE8;
     box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
 }
 
@@ -31,7 +31,7 @@ body{
 }
 
 .flap{
-    border-top: 98px solid  #ff6863;
+    border-top: 98px solid  #90FFD4;
     border-left: 140px solid transparent;
     border-right: 140px solid transparent;
     border-bottom: 82px solid transparent;
@@ -39,9 +39,9 @@ body{
 }
 
 .pocket{
-    border-left: 140px solid #FDA494;
-    border-right: 140px solid #FDA494;
-    border-bottom: 90px solid #FFA8B5;
+    border-left: 140px solid #C3FFE8;
+    border-right: 140px solid #C3FFE8;
+    border-bottom: 90px solid #C3FFE8;
     border-top: 90px solid transparent;
     border-bottom-left-radius: 6px;
     border-bottom-right-radius: 6px;
@@ -49,7 +49,7 @@ body{
 
 .letter{
     position: relative;
-    background-color: #F88379;
+    background-color: #FF90BB;
     width: 90%;
     height: 95%;
     top: 5%;
